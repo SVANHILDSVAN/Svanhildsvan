@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVANHILDSVAN&layout=donut&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="languages graph"  />
+</div>
+
 <!--
 **SVANHILDSVAN/Svanhildsvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
